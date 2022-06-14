@@ -17,10 +17,10 @@ A: EAC is the anti-cheat software developed by Epic Games and used by Lost Ark. 
 
 ## Development
 
-### Avoiding bot detection and getting banned
+### Avoiding Bot Detection and Bans
 To avoid bot detection, I pass all inputs through a wrapper function to randomize keystroke delay in order to mimick human input. The bot also doesn't follow the same pattern every time, and it rests periodically, just like a (non-degenerate) gamer would.
 
-## External Resources for Learning to Bot:
+## External Resources for Learning to Make A Bot:
 I referenced these while developing:
 * [Injecting, packet sniffing, and reverse engineering to make an MMO bot](https://guidedhacking.com/threads/how-to-make-an-mmo-bot-mmorpg-bot-automation.15173/)
 * [Bypassing EAC](https://guidedhacking.com/threads/how-to-bypass-eac-easy-anti-cheat.15956/)
