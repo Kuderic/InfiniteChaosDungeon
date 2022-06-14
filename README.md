@@ -10,6 +10,8 @@ Download the provided .exe file and run it. This file includes all dependencies,
 ## FAQ
 ### Q: Will I get banned?
 A: No idea lol. Use at your own peril.
+### Q: Can I minimize my game while this runs?
+A: No. This is a pixel bot, so you need to keep the game open so that it can tell what's going on. For this reason, I recommend leaving the bot on overnight while you aren't playing. The alternative to a pixel bot would be to bypass EasyAntiChat and use packet sniffing and injection, but this is *substantially* harder to code and test. I might try this later with a VPN and throwaway account, though.
 
 ## Development
 
