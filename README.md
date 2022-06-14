@@ -5,7 +5,7 @@
 
 ## How to Use
 ### Windows
-Download the provided InfiniteChaosDungeon.exe file and run it. Alternatively, you can download the source code and its dependencies, and run the `main.py` script to get the same result.
+Download the provided `InfiniteChaosDungeon.exe` file and run it. Alternatively, you can download the source code, run `pipenv install` to download and install the appropriate dependencies, and then run `main.py` to launch the program.
 
 ## FAQ
 ### Q: Will I get banned?
@@ -24,3 +24,6 @@ To avoid bot detection, I pass all inputs through a wrapper function to randomiz
 I referenced these while developing:
 * [Injecting, packet sniffing, and reverse engineering to make an MMO bot](https://guidedhacking.com/threads/how-to-make-an-mmo-bot-mmorpg-bot-automation.15173/)
 * [Bypassing EAC](https://guidedhacking.com/threads/how-to-bypass-eac-easy-anti-cheat.15956/)
+
+## Inspiration:
+https://www.elitepvpers.com/forum/lost-ark-trading/5014211-lost-ark-megabot-100-undetected-chaos-farming-fishing-calculator-all-one.html
