@@ -1,5 +1,5 @@
 # InfiniteChaosDungeon
-Lost Ark Infinite Chaos Dungeon Bot. This is my first attempt at an MMORPG bot.
+### Lost Ark Infinite Chaos Dungeon Bot.
 
 ![ICD Banner](https://i.redd.it/77wiu2hy5eq81.jpg)
 
